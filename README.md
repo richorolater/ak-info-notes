@@ -1,2 +1,12 @@
 # ak-info-notes
-HTML page archive and documentation
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
